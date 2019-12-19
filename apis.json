@@ -1,0 +1,69 @@
+{
+    "name": "Gitter",
+    "description": "<p>Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gitter-logo.png",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "communications",
+        "general data",
+        "have api",
+        "relative data",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gitter\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gitter",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gitter-logo.png",
+            "humanURL": "https:\/\/gitter.im",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gitter-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/gitter.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gitter"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.gitter.im\/docs\/streaming-api"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/gitterHQ"
+        },
+        {
+            "type": "Curated Source",
+            "url": "https:\/\/gitter.im\/apiaryio\/api-blueprint"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/gitter.im"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gitchat"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/gitter.im"
+        }
+    ]
+}
