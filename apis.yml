@@ -1,0 +1,32 @@
+aid: gitter
+name: Gitter
+description: "Chat for Developers"
+url: https://developer.gitter.im/docs/welcome
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Gitter
+    description: "Chat for Developers"
+    humanURL: https://developer.gitter.im/docs/welcome
+    baseURL: https://developer.gitter.im/docs/welcome
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://developer.gitter.im/docs/welcome
+common:
+  - type: Website
+    url: https://developer.gitter.im/docs/welcome
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
