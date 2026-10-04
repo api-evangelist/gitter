@@ -39,7 +39,6 @@ apis:
   - name: Gitter
     description: "Chat for Developers"
     humanURL: https://developer.gitter.im/docs/welcome
-    baseURL: https://developer.gitter.im/docs/welcome
     tags:
       - Development
     properties:
